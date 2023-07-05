@@ -1,2 +1,2 @@
 # Project
-# Ghost
+# GhostPineapple
